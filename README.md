@@ -17,3 +17,5 @@ This is the basis of the Interface Gateway that is used elsewhere in the project
 This is used to connect to, and send messages to a SimSig server.  This sets up the connection, by sending a connect message to the server, then returns the socket connection, and a message advising if the message was succesfull or not.
 
 This is the basis of the connection used elsewhere in the project.
+
+This project is converting the old python 2.7 to the updated python 3. Currently no changes have been made but a changelog will be kept for each commit
